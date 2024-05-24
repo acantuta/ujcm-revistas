@@ -1,0 +1,3 @@
+https://revistas.ujcm.edu.pe
+[2020-03-10 14:57:19] [Notificación] Se ha iniciado la tarea.
+[2020-03-10 14:57:22] [Error] No se puede mover el archivo usage_events_20200309.log de /var/www/revistas/files/usageStats/processing/usage_events_20200309.log a /var/www/revistas/files/usageStats/archive/usage_events_20200309.log.

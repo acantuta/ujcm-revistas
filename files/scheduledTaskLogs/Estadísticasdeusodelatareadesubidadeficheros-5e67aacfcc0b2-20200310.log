@@ -1,0 +1,5 @@
+https://revistas.ujcm.edu.pe
+[2020-03-10 14:57:19] [Notificación] Se ha iniciado la tarea.
+[2020-03-10 14:57:19] [Error] El directorio /var/www/revistas/files/usageStats/processing no está vacío. Esto puede indicar indicar o bien que ha fallado un proceso, o que se han ejecutado varios a la vez. Este fichero será reprocesado automáticamente si además está usando scheduledTasksAutoStage.xml, de otro modo necesitará mover manualmente cualquier fichero huérfano en el directorio de procesado de vuelta al directorio objetivo.
+[2020-03-10 14:57:22] [Notificación] El archivo /var/www/revistas/files/usageStats/processing/usage_events_20200309.log se ha procesado y archivado.
+[2020-03-10 14:57:22] [Notificación] Se ha detenido la tarea.

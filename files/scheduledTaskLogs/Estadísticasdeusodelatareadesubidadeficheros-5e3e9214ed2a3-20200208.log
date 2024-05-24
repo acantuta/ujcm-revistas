@@ -1,0 +1,4 @@
+https://revistas.ujcm.edu.pe
+[2020-02-08 10:48:53] [Notificación] Se ha iniciado la tarea.
+[2020-02-08 10:48:53] [Error] El directorio /var/www/revistas/files/usageStats/processing no está vacío. Esto puede indicar indicar o bien que ha fallado un proceso, o que se han ejecutado varios a la vez. Este fichero será reprocesado automáticamente si además está usando scheduledTasksAutoStage.xml, de otro modo necesitará mover manualmente cualquier fichero huérfano en el directorio de procesado de vuelta al directorio objetivo.
+[2020-02-08 10:48:54] [Error] No se puede mover el archivo usage_events_20200207.log de /var/www/revistas/files/usageStats/processing/usage_events_20200207.log a /var/www/revistas/files/usageStats/archive/usage_events_20200207.log.

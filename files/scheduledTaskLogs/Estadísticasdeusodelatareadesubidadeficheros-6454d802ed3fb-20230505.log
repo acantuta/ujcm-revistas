@@ -1,0 +1,6 @@
+https://revistas.ujcm.edu.pe
+[2023-05-05 10:18:42] [Notificación] Se ha iniciado la tarea.
+[2023-05-05 10:18:42] [Error] El directorio /var/www/revistas/files/usageStats/processing no está vacío. Esto puede indicar indicar o bien que ha fallado un proceso, o que se han ejecutado varios a la vez. Este fichero será reprocesado automáticamente si además está usando scheduledTasksAutoStage.xml, de otro modo necesitará mover manualmente cualquier fichero huérfano en el directorio de procesado de vuelta al directorio objetivo.
+[2023-05-05 10:18:47] [Notificación] El archivo /var/www/revistas/files/usageStats/processing/usage_events_20230504.log se ha procesado y archivado.
+[2023-05-05 10:18:47] [Error] El número de línea 1 del archivo /var/www/revistas/files/usageStats/processing/googleda794cd9937527d01.html no es una entrada de registro válida por lo que se rechazó el archivo.
+[2023-05-05 10:18:47] [Notificación] Se ha detenido la tarea.
